@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Chatroom-whatsapp-demo/static/css/main.d2d3546c.chunk.css",
+    "main.js": "/Chatroom-whatsapp-demo/static/js/main.077fa64f.chunk.js",
+    "main.js.map": "/Chatroom-whatsapp-demo/static/js/main.077fa64f.chunk.js.map",
+    "runtime-main.js": "/Chatroom-whatsapp-demo/static/js/runtime-main.af345abf.js",
+    "runtime-main.js.map": "/Chatroom-whatsapp-demo/static/js/runtime-main.af345abf.js.map",
+    "static/js/2.287cf928.chunk.js": "/Chatroom-whatsapp-demo/static/js/2.287cf928.chunk.js",
+    "static/js/2.287cf928.chunk.js.map": "/Chatroom-whatsapp-demo/static/js/2.287cf928.chunk.js.map",
+    "static/js/3.8d15d652.chunk.js": "/Chatroom-whatsapp-demo/static/js/3.8d15d652.chunk.js",
+    "static/js/3.8d15d652.chunk.js.map": "/Chatroom-whatsapp-demo/static/js/3.8d15d652.chunk.js.map",
+    "index.html": "/Chatroom-whatsapp-demo/index.html",
+    "static/css/main.d2d3546c.chunk.css.map": "/Chatroom-whatsapp-demo/static/css/main.d2d3546c.chunk.css.map",
+    "static/js/2.287cf928.chunk.js.LICENSE.txt": "/Chatroom-whatsapp-demo/static/js/2.287cf928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af345abf.js",
+    "static/js/2.287cf928.chunk.js",
+    "static/css/main.d2d3546c.chunk.css",
+    "static/js/main.077fa64f.chunk.js"
+  ]
+}
